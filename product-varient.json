@@ -93,12 +93,12 @@
                {
                     "meterial" : "cotton",
                     "color" : "yellow",
-                    "addOnprice" : 30
+                    "addOnprice" : 40
                },
                {
                     "meterial" : "silk",
                     "color" : "red",
-                    "addOnprice" : 40
+                    "addOnprice" : 50
                },
                {
                     "meterial" : "silk",
